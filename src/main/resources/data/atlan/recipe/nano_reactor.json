@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["NSN", "DAD", "NSN"],
+  "key": {
+    "N": { "item": "minecraft:netherite_ingot" },
+    "S": { "item": "minecraft:nether_star" },
+    "D": { "item": "minecraft:diamond_block" },
+    "A": { "item": "atlan:arc_reactor" }
+  },
+  "result": { "id": "atlan:nano_reactor", "count": 1 }
+}
